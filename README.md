@@ -41,11 +41,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhransu-sahu&show_icons=true&theme=radical" alt="Subhransu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhransu-sahu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhransu26&show_icons=true&theme=radical" alt="Subhransu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhransu26&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
 
 ### 🔗 Connect with Me
 
