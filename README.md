@@ -9,7 +9,6 @@
 ### 🧠 About Me
 
 - 💻 I'm a passionate **MERN Stack Developer** from India  
-- 🌱 Currently diving deep into **DevOps, CI/CD, and WebSockets**  
 - 🔥 I love building **real-world, scalable, and performant web apps**  
 - ✨ Always exploring the latest tools in web and cloud technologies  
 - 🧩 Believe in “**Code. Learn. Improve. Repeat.**”
