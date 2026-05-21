@@ -17,51 +17,31 @@
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</p>
+**Languages:**  
+`JavaScript` `TypeScript` `HTML` `CSS`  
 
-#### ⚛️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
-</p>
+**Frameworks & Libraries:**  
+`React` `Next.js` `Node.js` `Express` `Tailwind CSS`  
 
-#### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,postman,docker,vscode" />
-</p>
+**Databases & Tools:**  
+`MongoDB` `Firebase` `Cloudinary` `Git` `GitHub` `Postman`  
 
 ---
 
 ### 🌱 Currently Learning
 
-- 🐳 Docker & Kubernetes  
-- ☁️ AWS Cloud & Terraform  
-- ⚙️ CI/CD with GitHub Actions  
-- 🔌 Real-time Applications using Socket.io  
-- 🧩 Scalable Backend Architecture  
+- 🔧 Docker & Kubernetes  
+- ☁️ AWS Cloud & Infrastructure as Code (Terraform)  
+- ⚙️ GitHub Actions & DevOps Pipelines  
+- 🔌 Real-time apps with **Socket.io**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Subhransu26&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em" 
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhransu26&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Subhransu26&theme=tokyonight&hide_border=true" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhransu26&show_icons=true&theme=radical" alt="Subhransu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhransu26&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🔗 Connect with Me
