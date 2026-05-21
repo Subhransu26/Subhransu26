@@ -1,57 +1,113 @@
-<h1 align="center">Hi 👋, I'm Subhransu Sahu</h1>
+# Hi 👋, I'm Subhransu Sahu
+
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Engineer | DevOps Learner</h3>
 
 <p align="center">
-  🚀 Full Stack Web Developer | Clean Code Enthusiast | Lifelong Learner
+  Passionate about building scalable web applications, crafting clean UI/UX, and continuously learning modern technologies.
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 💻 I'm a passionate **MERN Stack Developer** from India  
-- 🔥 I love building **real-world, scalable, and performant web apps**  
-- ✨ Always exploring the latest tools in web and cloud technologies  
-- 🧩 Believe in “**Code. Learn. Improve. Repeat.**”
+* 💻 Full Stack Developer specializing in the **MERN Stack**
+* 🌍 Based in India
+* ⚡ Focused on building **fast, scalable, and real-world applications**
+* 🎯 Interested in **System Design, Cloud, and DevOps**
+* 📚 Constantly learning and improving every day
+* ✨ Strong believer in:
 
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-`JavaScript` `TypeScript` `HTML` `CSS`  
-
-**Frameworks & Libraries:**  
-`React` `Next.js` `Node.js` `Express` `Tailwind CSS`  
-
-**Databases & Tools:**  
-`MongoDB` `Firebase` `Cloudinary` `Git` `GitHub` `Postman`  
+> **Code • Learn • Build • Improve • Repeat**
 
 ---
 
-### 🌱 Currently Learning
+## 🚀 Tech Stack
 
-- 🔧 Docker & Kubernetes  
-- ☁️ AWS Cloud & Infrastructure as Code (Terraform)  
-- ⚙️ GitHub Actions & DevOps Pipelines  
-- 🔌 Real-time apps with **Socket.io**
+### 👨‍💻 Languages
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhransu26&show_icons=true&theme=radical" alt="Subhransu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhransu26&layout=compact&theme=radical" alt="Top Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
-### 🔗 Connect with Me
+### ⚛️ Frontend Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhransu-sahu-673576246/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_subhransu_sahu/?next=%2F2)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhransusahu95@gmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### 🔧 Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,aws" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
+</p>
 
 ---
 
-### 💬 Quote I Live By
+## 🌱 Currently Learning
 
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+* 🐳 Docker & Kubernetes
+* ☁️ AWS Cloud & Terraform
+* ⚙️ CI/CD with GitHub Actions
+* 🔌 Real-time Applications using Socket.io
+* 🧩 Scalable Backend Architecture
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhransu26&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhransu26&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhransu26&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhransu26&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/subhransu-sahu-673576246/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_subhransu_sahu/?next=%2F2" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:subhransusahu95@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Developer Mindset
+
+> “First, solve the problem. Then, write the code.” — *John Johnson*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhransu26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
